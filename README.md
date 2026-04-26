@@ -18,3 +18,8 @@ Aplicação web com frontend e backend.
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Flask)
 - Banco de Dados: PostgreSQL    
+
+## Arquitetura
+
+Veja a documentação da arquitetura:
+[Arquitetura do Sistema](docs/arquitetura.md)
